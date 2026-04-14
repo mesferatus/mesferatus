@@ -5,22 +5,17 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/e2/3a/40/e23a40c6af946e112228d1b1f4cf0f72.jpg" width="700px">
+  <img src="https://i.pinimg.com/1200x/e2/3a/40/e23a40c6af946e112228d1b1f4cf0f72.jpg" width="900px">
 </p>
 
 ---
 
 ## 🖤 About Me
 
-I'm 19 and currently studying **Systems Analysis**, focusing on **backend development, data, and cybersecurity**. I like working where these areas connect — especially when it involves turning messy processes into something structured and actually useful. Most of what I’ve learned came from building things in practice, understanding how systems behave, and seeing how technical decisions impact real scenarios.
+I'm 19 and currently studying **Systems Analysis**, focusing on **backend development, data, and cybersecurity**. I like working where these areas connect, especially when it involves turning messy processes into something structured and actually useful. Most of what I’ve learned came from building things in practice, understanding how systems behave, and seeing how technical decisions impact real scenarios.
 
 I’ve worked with **Python for automation**, **data analysis**, and **dashboard development**, and I also have experience with the **Salesforce ecosystem** in a business context. During my time at **Eve Air Mobility**, I worked closely with data and internal processes, which helped me develop a more practical and strategic view of technology. Recently, I’ve been diving deeper into **cybersecurity (Blue Team)**, focusing on monitoring, analysis, and system behavior.
 
-**At Eve Air Mobility, I worked on:**
-- 🕯️ **Automated pricing processes** using Python  
-- 🕯️ **Built dashboards for leadership** using Power BI  
-- 🕯️ **Supported decision-making** through data analysis  
-- 🕯️ **Worked with enterprise systems and integrations**  
 ---
 
 ## ⚙️ Tech Stack
