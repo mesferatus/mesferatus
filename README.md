@@ -1,42 +1,40 @@
 <h1 align="center">𖤐 CALLISTO MASCOLOTI 𖤐</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Backend+Systems;Data+%26+Automation;Cybersecurity+(blue+team)" />
+  <img src="https://i.pinimg.com/originals/57/3b/4d/573b4dcf64a76c807a3ce3e0660f8d9b.gif" width="900px">
 </p>
 
-
 <p align="center">
-  <i>“Amar alguém nunca é um desperdício”</i>
+  <i>“Loving someone is never a waste”</i>
 </p>
 
 <p align="center">
   🕯️ Backend Developer • Python • Cybersecurity • Data • Automation 🕯️
 </p>
 
----
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/57/3b/4d/573b4dcf64a76c807a3ce3e0660f8d9b.gif" width="1200px">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=420&lines=backend+systems;data+%26+automation;cybersecurity+(blue+team)" />
 </p>
 
 ---
 
-## 🖤 Sobre mim
+## 🖤 About Me
 
-Tenho 19 anos e curso análise e desenvolvimento de sistemas, com foco em **desenvolvimento backend, análise de dados e cibersegurança**.
+I'm 19 years old and currently studying **Systems Analysis and Development**, with a focus on **backend development, data analysis and cybersecurity**.
 
-Atuo na interseção entre **engenharia de software, análise de dados e automação de processos**, com experiência prática na construção de soluções que conectam lógica de negócio com implementação técnica.
+I work at the intersection of **software engineering, data and process automation**, building solutions that connect business logic with real technical implementation.
 
-Tenho experiência com **automação em Python, análise de dados e desenvolvimento de dashboards**, além de atuação no ecossistema Salesforce e suporte a decisões estratégicas através de dados.
+I have experience with **Python automation, data analysis and dashboard development**, along with hands-on work in the Salesforce ecosystem and supporting strategic decision-making through data.
 
-Passei pela **Eve Air Mobility**, onde trabalhei com:
-- 🕯️ automação de processos de pricing  
-- 🕯️ construção de dashboards para liderança  
-- 🕯️ análise de dados para tomada de decisão  
-- 🕯️ integração e uso de sistemas corporativos  
+I previously worked at **Eve Air Mobility**, where I:
+- 🕯️ automated pricing processes using Python  
+- 🕯️ built dashboards for leadership using Power BI  
+- 🕯️ supported decision-making through data analysis  
+- 🕯️ worked with enterprise systems and integrations  
 
-Também estudo e aplico conceitos de **segurança e redes**, com foco em monitoramento, análise e entendimento de comportamento de sistemas.
+I also study and apply concepts of **security and networking**, focusing on monitoring, analysis and understanding system behavior.
 
-Meu foco é construir sistemas que sejam **escaláveis, compreensíveis e úteis**, enquanto aprofundo meus conhecimentos em **cibersegurança (Blue Team)**.
+My goal is to build systems that are **scalable, reliable and meaningful**, while continuously growing in **cybersecurity (Blue Team)**.
 
 ---
 
@@ -48,48 +46,48 @@ Meu foco é construir sistemas que sejam **escaláveis, compreensíveis e úteis
 
 ---
 
-## 🔐 Segurança e Redes
+## 🔐 Security & Networking
 
-| Ferramenta | Aplicação |
-|----------|------|
-| Wireshark | Análise de tráfego e pacotes |
-| Nmap | Mapeamento e reconhecimento de rede |
-| Linux | Ambiente para análise e segurança |
-| Redes TCP/IP | Fundamentos de comunicação |
-| Conceitos de SOC | Monitoramento e análise de eventos |
-| Segurança de sistemas | Boas práticas e análise básica |
-
----
-
-## 📊 Dados e Automação
-
-| Tecnologia | Uso |
-|----------|------|
-| Python | Automação, scripts e análise de dados |
-| Power BI | Dashboards e visualização |
-| Salesforce | Gestão de dados e processos |
-| Data Analysis | Suporte à tomada de decisão |
-| Automação de Processos | Otimização de fluxos |
+| Tool / Concept | Application |
+|--------------|------------|
+| Wireshark | Packet analysis and traffic inspection |
+| Nmap | Network scanning and reconnaissance |
+| Linux | Security-focused environment |
+| TCP/IP | Network communication fundamentals |
+| SOC Concepts | Monitoring and event analysis |
+| System Security | Basic practices and analysis |
 
 ---
 
-## 🧠 Interesses Atuais
+## 📊 Data & Automation
+
+| Technology | Usage |
+|-----------|------|
+| Python | Automation, scripting and data analysis |
+| Power BI | Dashboards and visualization |
+| Salesforce | Data and process management |
+| Data Analysis | Decision support |
+| Process Automation | Workflow optimization |
+
+---
+
+## 🧠 Current Interests
 
 ✧ Backend development (Python / Java)  
-✧ Arquitetura de sistemas  
+✧ System architecture  
 ✧ Cybersecurity (Blue Team 🔐)  
-✧ Automação e integração de sistemas  
-✧ Dados aplicados a decisões estratégicas  
+✧ Automation & system integration  
+✧ Data-driven decision making  
 
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3a/ba/dd/3abaddc7db64ec0f303061e73fa2cefe.gif" width="1200px">
+  <img src="https://i.pinimg.com/originals/3a/ba/dd/3abaddc7db64ec0f303061e73fa2cefe.gif" width="900px">
 </p>
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/callisto-m-30a9a0301/">
@@ -113,7 +111,7 @@ becoming someone i needed before
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/78/a1/7d/78a17d6a7aa68ada295bf6403f4cc538.gif" width="1220px">
+  <img src="https://i.pinimg.com/originals/78/a1/7d/78a17d6a7aa68ada295bf6403f4cc538.gif" width="900px">
 </p>
 
 <p align="center">
