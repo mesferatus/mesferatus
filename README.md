@@ -1,10 +1,5 @@
 <h1 align="center">𖤐 CALLISTO MASCOLOTI 𖤐</h1>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=420&lines=backend+systems;data+%26+automation;cybersecurity+(blue+team)" />
-</p>
-
 <p align="center">
   🕯️ Backend Developer • Python • Cybersecurity • Data • Automation 🕯️
 </p>
