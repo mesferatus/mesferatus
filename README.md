@@ -16,7 +16,6 @@ I'm 19 and currently studying **Systems Analysis**, focusing on **backend develo
 
 I’ve worked with **Python for automation**, **data analysis**, and **dashboard development**, and I also have experience with the **Salesforce ecosystem** in a business context. During my time at **Eve Air Mobility**, I worked closely with data and internal processes, which helped me develop a more practical and strategic view of technology. Recently, I’ve been diving deeper into **cybersecurity (Blue Team)**, focusing on monitoring, analysis, and system behavior.
 
----
 
 ## ⚙️ Tech Stack
 
@@ -24,7 +23,6 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
   <img src="https://skillicons.dev/icons?i=python,java,javascript,php,bootstrap,git,linux&theme=dark" />
 </p>
 
----
 
 ## 🔐 Security & Networking
 
