@@ -1,15 +1,15 @@
 <h1 align="center">𖤐 CALLISTO MASCOLOTI 𖤐</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/57/3b/4d/573b4dcf64a76c807a3ce3e0660f8d9b.gif" width="900px">
-</p>
-
-<p align="center">
   <i>“Loving someone is never a waste”</i>
 </p>
 
 <p align="center">
   🕯️ Backend Developer • Python • Cybersecurity • Data • Automation 🕯️
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/57/3b/4d/573b4dcf64a76c807a3ce3e0660f8d9b.gif" width="900px">
 </p>
 
 <p align="center">
