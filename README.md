@@ -53,33 +53,33 @@ I’ve worked with **Python automation, data analysis, and dashboard development
 </tr>
 
 <tr>
-<td align="center">🕸️ Wireshark</td>
-<td align="center">Analyzed network traffic and inspected packet behavior</td>
+<td>🕸️ Wireshark</td>
+<td>Analyzed network traffic and inspected packet behavior</td>
 </tr>
 
 <tr>
-<td align="center">🕷️ Nmap</td>
-<td align="center">Performed network scanning and basic reconnaissance</td>
+<td>🕷️ Nmap</td>
+<td>Performed network scanning and basic reconnaissance</td>
 </tr>
 
 <tr>
-<td align="center">🐧 Linux</td>
-<td align="center">Used as environment for security and system analysis</td>
+<td>🐧 Linux</td>
+<td>Used as environment for security and system analysis</td>
 </tr>
 
 <tr>
-<td align="center">📡 TCP/IP</td>
-<td align="center">Studied communication flow and network fundamentals</td>
+<td>📡 TCP/IP</td>
+<td>Studied communication flow and network fundamentals</td>
 </tr>
 
 <tr>
-<td align="center">🧿 SOC Concepts</td>
-<td align="center">Explored monitoring, logging and event analysis</td>
+<td>🧿 SOC Concepts</td>
+<td>Explored monitoring, logging and event analysis</td>
 </tr>
 
 <tr>
-<td align="center">🔒 System Security</td>
-<td align="center">Applied basic security practices and analysis</td>
+<td>🔒 System Security</td>
+<td>Applied basic security practices and analysis</td>
 </tr>
 
 </table>
@@ -99,28 +99,28 @@ I’ve worked with **Python automation, data analysis, and dashboard development
 </tr>
 
 <tr>
-<td align="center">🐍 Python</td>
-<td align="center">Built automation scripts and supported data analysis workflows</td>
+<td>🐍 Python</td>
+<td>Built automation scripts and supported data analysis workflows</td>
 </tr>
 
 <tr>
-<td align="center">📈 Power BI</td>
-<td align="center">Developed dashboards used for business decision-making</td>
+<td>📈 Power BI</td>
+<td>Developed dashboards used for business decision-making</td>
 </tr>
 
 <tr>
-<td align="center">☁️ Salesforce</td>
-<td align="center">Worked with data structures and business processes</td>
+<td>☁️ Salesforce</td>
+<td>Worked with data structures and business processes</td>
 </tr>
 
 <tr>
-<td align="center">🧠 Data Analysis</td>
-<td align="center">Supported strategic decisions through data insights</td>
+<td>🧠 Data Analysis</td>
+<td>Supported strategic decisions through data insights</td>
 </tr>
 
 <tr>
-<td align="center">⚙️ Process Automation</td>
-<td align="center">Optimized workflows and reduced manual tasks</td>
+<td>⚙️ Process Automation</td>
+<td>Optimized workflows and reduced manual tasks</td>
 </tr>
 
 </table>
