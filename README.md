@@ -12,22 +12,15 @@
 
 ## 🖤 About Me
 
-I'm 19 years old and currently studying **Systems Analysis**, with a focus on **backend development, data analysis and cybersecurity**.
+I'm 19 and currently studying **Systems Analysis**, focusing on **backend development, data, and cybersecurity**. I like working where these areas connect — especially when it involves turning messy processes into something structured and actually useful. Most of what I’ve learned came from building things in practice, understanding how systems behave, and seeing how technical decisions impact real scenarios.
 
-I work at the intersection of **software engineering, data and process automation**, building solutions that connect business logic with real technical implementation.
+I’ve worked with **Python for automation**, **data analysis**, and **dashboard development**, and I also have experience with the **Salesforce ecosystem** in a business context. During my time at **Eve Air Mobility**, I worked closely with data and internal processes, which helped me develop a more practical and strategic view of technology. Recently, I’ve been diving deeper into **cybersecurity (Blue Team)**, focusing on monitoring, analysis, and system behavior.
 
-I have experience with **Python automation, data analysis and dashboard development**, along with hands-on work in the Salesforce ecosystem and supporting strategic decision-making through data.
-
-I previously worked at **Eve Air Mobility**, where I:
-- 🕯️ automated pricing processes using Python  
-- 🕯️ built dashboards for leadership using Power BI  
-- 🕯️ supported decision-making through data analysis  
-- 🕯️ worked with enterprise systems and integrations  
-
-I also study and apply concepts of **security and networking**, focusing on monitoring, analysis and understanding system behavior.
-
-My goal is to build systems that are **scalable, reliable and meaningful**, while continuously growing in **cybersecurity (Blue Team)**.
-
+**At Eve Air Mobility, I worked on:**
+- 🕯️ **Automated pricing processes** using Python  
+- 🕯️ **Built dashboards for leadership** using Power BI  
+- 🕯️ **Supported decision-making** through data analysis  
+- 🕯️ **Worked with enterprise systems and integrations**  
 ---
 
 ## ⚙️ Tech Stack
@@ -74,7 +67,7 @@ My goal is to build systems that are **scalable, reliable and meaningful**, whil
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3a/ba/dd/3abaddc7db64ec0f303061e73fa2cefe.gif" width="900px">
+  <img src="https://i.pinimg.com/1200x/45/cb/45/45cb454c198a017cc2d0e10cf284ece4.jpg" width="900px">
 </p>
 
 ---
@@ -101,10 +94,6 @@ becoming someone i needed before
 ```
 
 ---
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/78/a1/7d/78a17d6a7aa68ada295bf6403f4cc538.gif" width="900px">
-</p>
 
 <p align="center">
   🦇 end of file 🦇
