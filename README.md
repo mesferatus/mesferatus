@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=42&pause=800&speed=60&color=8A2BE2&center=true&vCenter=true&width=900&lines=Callisto+Mascoloti;Callisto+Mascoloti;Callisto+Mascolotti" />
+  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=42&pause=800&speed=60&color=E6CCFF&center=true&vCenter=true&width=900&lines=Callisto+Mascoloti;Callisto+Mascoloti;Callisto+Mascoloti" />
+
+   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=8A2BE2&&center=true&vCenter=true&width=500&lines=Network+%26+Cyber+Security;Systems+Analysis+Student;Java+%7C+Python+%7C+Linux;Forensics+%7C+SOC+%7C+Blue+Team;Data+Science+%26+Automation" />
+</p>
 </p>
 
 </h1>
