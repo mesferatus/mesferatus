@@ -25,7 +25,7 @@
 
 ## 🖤 About Me
 
-I'm 19 and currently studying **Systems Analysis**, focusing on **backend development, data, and cybersecurity**. I enjoy working where these areas connect, especially when it means turning messy processes into something structured and actually useful. Most of what I’ve learned came from building things in practice and understanding how systems behave.
+Hello, I'm Callisto! I'm 19 and currently studying **Systems Analysis**, focusing on **backend development, data, and cybersecurity**. I enjoy working where these areas connect, especially when it means turning messy processes into something structured and actually useful. Most of what I’ve learned came from building things in practice and understanding how systems behave.
 
 I’ve worked with **Python automation, data analysis, and dashboard development**, and I also have experience with the **Salesforce ecosystem** in a business context. During my time at **Eve Air Mobility**, I worked closely with data and internal processes, which gave me a more practical and strategic view of technology. Recently, I’ve been focusing more on **cybersecurity (Blue Team)**, especially around monitoring and system behavior.
 
