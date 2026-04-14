@@ -17,17 +17,20 @@ I'm 19 and currently studying **Systems Analysis**, focusing on **backend develo
 I’ve worked with **Python for automation**, **data analysis**, and **dashboard development**, and I also have experience with the **Salesforce ecosystem** in a business context. During my time at **Eve Air Mobility**, I worked closely with data and internal processes, which helped me develop a more practical and strategic view of technology. Recently, I’ve been diving deeper into **cybersecurity (Blue Team)**, focusing on monitoring, analysis, and system behavior.
 
 
-##
 
- ⚙️ Tech Stack
+
+
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,php,bootstrap,git,linux&theme=dark" />
 </p>
 
-##
 
- 🔐 Security & Networking
+
+
+
+## 🔐 Security & Networking
 
 | Tool / Concept | Application |
 |--------------|------------|
@@ -38,9 +41,11 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
 | SOC Concepts | Monitoring and event analysis |
 | System Security | Basic practices and analysis |
 
-##
 
- 📊 Data & Automation
+
+
+
+## 📊 Data & Automation
 
 | Technology | Usage |
 |-----------|------|
@@ -50,9 +55,11 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
 | Data Analysis | Decision support |
 | Process Automation | Workflow optimization |
 
-##
 
- 🧠 Current Interests
+
+
+
+## 🧠 Current Interests
 
 ✧ Backend development (Python / Java)  
 ✧ System architecture  
@@ -62,13 +69,16 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
 
 
 
+
 <p align="center">
   <img src="https://i.pinimg.com/1200x/45/cb/45/45cb454c198a017cc2d0e10cf284ece4.jpg" width="700px">
 </p>
 
-##
 
- 📫 Contact
+
+
+
+## 📫 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/callisto-m-30a9a0301/">
@@ -79,9 +89,10 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
   </a>
 </p>
 
-##
 
- 🕯️ Final
+
+
+## 🕯️ Final
 
 ```txt
 building quietly
