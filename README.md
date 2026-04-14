@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/f9/3e/97/f93e971c4cd7faff82dead6b54dd1654.jpg" width="900px">
+  <img src="https://i.pinimg.com/1200x/e2/3a/40/e23a40c6af946e112228d1b1f4cf0f72.jpg" width="700px">
 </p>
 
 ---
@@ -42,7 +42,6 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
 | SOC Concepts | Monitoring and event analysis |
 | System Security | Basic practices and analysis |
 
----
 
 ## 📊 Data & Automation
 
@@ -54,7 +53,6 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
 | Data Analysis | Decision support |
 | Process Automation | Workflow optimization |
 
----
 
 ## 🧠 Current Interests
 
@@ -67,7 +65,7 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/45/cb/45/45cb454c198a017cc2d0e10cf284ece4.jpg" width="900px">
+  <img src="https://i.pinimg.com/1200x/45/cb/45/45cb454c198a017cc2d0e10cf284ece4.jpg" width="700px">
 </p>
 
 ---
@@ -83,7 +81,6 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
   </a>
 </p>
 
----
 
 ## 🕯️ Final
 
@@ -92,8 +89,6 @@ building quietly
 learning constantly
 becoming someone i needed before
 ```
-
----
 
 <p align="center">
   🦇 end of file 🦇
