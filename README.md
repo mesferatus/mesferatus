@@ -34,7 +34,11 @@ I’ve worked with **Python automation, data analysis, and dashboard development
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,php,bootstrap,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,php,nodejs&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,flutter,git,linux,kali,mysql&theme=dark" />
 </p>
 
 <p align="center">════════ ✧ ════════</p>
