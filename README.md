@@ -1,5 +1,11 @@
 <h1 align="center">𖤐 CALLISTO MASCOLOTI 𖤐</h1>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=420&lines=backend+systems;data+%26+automation;cybersecurity+(blue+team)" />
+</p>
+
+
 <p align="center">
   <i>“Loving someone is never a waste”</i>
 </p>
@@ -9,18 +15,14 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/57/3b/4d/573b4dcf64a76c807a3ce3e0660f8d9b.gif" width="900px">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=420&lines=backend+systems;data+%26+automation;cybersecurity+(blue+team)" />
+  <img src="https://i.pinimg.com/1200x/f9/3e/97/f93e971c4cd7faff82dead6b54dd1654.jpg" width="900px">
 </p>
 
 ---
 
 ## 🖤 About Me
 
-I'm 19 years old and currently studying **Systems Analysis and Development**, with a focus on **backend development, data analysis and cybersecurity**.
+I'm 19 years old and currently studying **Systems Analysis**, with a focus on **backend development, data analysis and cybersecurity**.
 
 I work at the intersection of **software engineering, data and process automation**, building solutions that connect business logic with real technical implementation.
 
