@@ -10,7 +10,7 @@
 
 ---
 
-## 🖤 About Me
+ 🖤 About Me
 
 I'm 19 and currently studying **Systems Analysis**, focusing on **backend development, data, and cybersecurity**. I like working where these areas connect, especially when it involves turning messy processes into something structured and actually useful. Most of what I’ve learned came from building things in practice, understanding how systems behave, and seeing how technical decisions impact real scenarios.
 
@@ -19,14 +19,15 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
 
 ##
 
-## ⚙️ Tech Stack
+ ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,php,bootstrap,git,linux&theme=dark" />
 </p>
 
+##
 
-## 🔐 Security & Networking
+ 🔐 Security & Networking
 
 | Tool / Concept | Application |
 |--------------|------------|
@@ -37,8 +38,9 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
 | SOC Concepts | Monitoring and event analysis |
 | System Security | Basic practices and analysis |
 
+##
 
-## 📊 Data & Automation
+ 📊 Data & Automation
 
 | Technology | Usage |
 |-----------|------|
@@ -48,8 +50,9 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
 | Data Analysis | Decision support |
 | Process Automation | Workflow optimization |
 
+##
 
-## 🧠 Current Interests
+ 🧠 Current Interests
 
 ✧ Backend development (Python / Java)  
 ✧ System architecture  
@@ -63,9 +66,9 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
   <img src="https://i.pinimg.com/1200x/45/cb/45/45cb454c198a017cc2d0e10cf284ece4.jpg" width="700px">
 </p>
 
+##
 
-
-## 📫 Contact
+ 📫 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/callisto-m-30a9a0301/">
@@ -76,8 +79,9 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
   </a>
 </p>
 
+##
 
-## 🕯️ Final
+ 🕯️ Final
 
 ```txt
 building quietly
