@@ -1,5 +1,8 @@
-<h1 align="center">✦ ℭ𝔞𝔩𝔩𝔦𝔰𝔱𝔬 𝔐𝔞𝔰𝔠𝔬𝔩𝔬𝔱𝔦 ✦</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=42&pause=800&speed=60&color=8A2BE2&center=true&vCenter=true&width=900&lines=Callisto+Mascoloti;Callisto+Mascoloti;Callisto+Mascolotti" />
+</p>
 
+</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/callisto-m-30a9a0301/">
     <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white">
