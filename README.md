@@ -1,4 +1,8 @@
 <h1 align="center">𖤐 CALLISTO MASCOLOTI 𖤐</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Backend+Systems;Data+%26+Automation;Cybersecurity+(blue+team)" />
+</p>
+
 
 <p align="center">
   <i>“Amar alguém nunca é um desperdício”</i>
@@ -8,21 +12,17 @@
   🕯️ Backend Developer • Python • Cybersecurity • Data • Automation 🕯️
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=backend+systems;data+%26+automation;cybersecurity+(blue+team)" />
-</p>
-
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/57/3b/4d/573b4dcf64a76c807a3ce3e0660f8d9b.gif" width="1400px">
+  <img src="https://i.pinimg.com/originals/57/3b/4d/573b4dcf64a76c807a3ce3e0660f8d9b.gif" width="1200px">
 </p>
 
 ---
 
 ## 🖤 Sobre mim
 
-Tenho 20 anos e curso tecnologia, com foco em **desenvolvimento backend, dados e segurança**.
+Tenho 19 anos e curso análise e desenvolvimento de sistemas, com foco em **desenvolvimento backend, análise de dados e cibersegurança**.
 
 Atuo na interseção entre **engenharia de software, análise de dados e automação de processos**, com experiência prática na construção de soluções que conectam lógica de negócio com implementação técnica.
 
@@ -84,7 +84,7 @@ Meu foco é construir sistemas que sejam **escaláveis, compreensíveis e úteis
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3a/ba/dd/3abaddc7db64ec0f303061e73fa2cefe.gif" width="200px">
+  <img src="https://i.pinimg.com/originals/3a/ba/dd/3abaddc7db64ec0f303061e73fa2cefe.gif" width="1200px">
 </p>
 
 ---
@@ -113,7 +113,7 @@ becoming someone i needed before
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/78/a1/7d/78a17d6a7aa68ada295bf6403f4cc538.gif" width="220px">
+  <img src="https://i.pinimg.com/originals/78/a1/7d/78a17d6a7aa68ada295bf6403f4cc538.gif" width="1220px">
 </p>
 
 <p align="center">
