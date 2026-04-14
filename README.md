@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/e2/3a/40/e23a40c6af946e112228d1b1f4cf0f72.jpg" width="900px">
+  <img src="https://i.pinimg.com/1200x/70/aa/3f/70aa3fd424b3912f7bc0f32cf6f0d4ee.jpg" width="1000px">
 </p>
 
 
@@ -137,12 +137,6 @@ I’ve worked with **Python automation, data analysis, and dashboard development
 
 <p align="center">════════ ✧ ════════</p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/45/cb/45/45cb454c198a017cc2d0e10cf284ece4.jpg" width="700px">
-</p>
-
-
-<p align="center">════════ ✧ ════════</p>
 
 
 <p align="center">
