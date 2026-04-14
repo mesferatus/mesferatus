@@ -15,8 +15,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/89/91/97/89919771e83c739da274063abb861f3c.gif" width="200px">
-  <img src="https://i.pinimg.com/originals/57/3b/4d/573b4dcf64a76c807a3ce3e0660f8d9b.gif" width="200px">
+  <img src="https://i.pinimg.com/originals/57/3b/4d/573b4dcf64a76c807a3ce3e0660f8d9b.gif" width="1400px">
 </p>
 
 ---
