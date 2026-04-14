@@ -8,17 +8,15 @@
   <img src="https://i.pinimg.com/1200x/e2/3a/40/e23a40c6af946e112228d1b1f4cf0f72.jpg" width="900px">
 </p>
 
----
+<p align="center">───────────── 𖤐 ─────────────</p>
 
- 🖤 About Me
+## 🖤 About Me
 
 I'm 19 and currently studying **Systems Analysis**, focusing on **backend development, data, and cybersecurity**. I like working where these areas connect, especially when it involves turning messy processes into something structured and actually useful. Most of what I’ve learned came from building things in practice, understanding how systems behave, and seeing how technical decisions impact real scenarios.
 
 I’ve worked with **Python for automation**, **data analysis**, and **dashboard development**, and I also have experience with the **Salesforce ecosystem** in a business context. During my time at **Eve Air Mobility**, I worked closely with data and internal processes, which helped me develop a more practical and strategic view of technology. Recently, I’ve been diving deeper into **cybersecurity (Blue Team)**, focusing on monitoring, analysis, and system behavior.
 
-
-
-
+<p align="center">───────────── 𖤐 ─────────────</p>
 
 ## ⚙️ Tech Stack
 
@@ -26,9 +24,7 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
   <img src="https://skillicons.dev/icons?i=python,java,javascript,php,bootstrap,git,linux&theme=dark" />
 </p>
 
-
-
-
+<p align="center">───────────── 𖤐 ─────────────</p>
 
 ## 🔐 Security & Networking
 
@@ -41,9 +37,7 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
 | SOC Concepts | Monitoring and event analysis |
 | System Security | Basic practices and analysis |
 
-
-
-
+<p align="center">───────────── 𖤐 ─────────────</p>
 
 ## 📊 Data & Automation
 
@@ -55,9 +49,7 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
 | Data Analysis | Decision support |
 | Process Automation | Workflow optimization |
 
-
-
-
+<p align="center">───────────── 𖤐 ─────────────</p>
 
 ## 🧠 Current Interests
 
@@ -67,16 +59,13 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
 ✧ Automation & system integration  
 ✧ Data-driven decision making  
 
-
-
+<p align="center">───────────── 𖤐 ─────────────</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/1200x/45/cb/45/45cb454c198a017cc2d0e10cf284ece4.jpg" width="700px">
 </p>
 
-
-
-
+<p align="center">───────────── 𖤐 ─────────────</p>
 
 ## 📫 Contact
 
@@ -89,8 +78,7 @@ I’ve worked with **Python for automation**, **data analysis**, and **dashboard
   </a>
 </p>
 
-
-
+<p align="center">───────────── 𖤐 ─────────────</p>
 
 ## 🕯️ Final
 
@@ -100,7 +88,7 @@ learning constantly
 becoming someone i needed before
 ```
 
----
+<p align="center">───────────── 𖤐 ─────────────</p>
 
 <p align="center">
   🦇 end of file 🦇
