@@ -31,7 +31,7 @@ I’ve worked with **Python automation, data analysis, and dashboard development
 
 <p align="center">════════ ✧ ════════</p>
 
-## ⚙️ Tech Stack
+## ⚙️ Stacks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,php,nodejs&theme=dark" />
