@@ -38,7 +38,7 @@ I’ve worked with **python automation, data analysis, and dashboard development
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,flutter,git,linux,kali,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,flutter,spring,docker,gradle,linux,kali,mysql&theme=dark" />
 </p>
 
 <p align="center">════════ ✧ ════════</p>
