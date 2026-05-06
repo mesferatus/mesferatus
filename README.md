@@ -22,9 +22,6 @@
 <a href="https://callisto-portifolio.vercel.app/">
   <img src="https://img.shields.io/badge/portfolio-160020?style=for-the-badge&logo=vercel&logoColor=EAD7FF" alt="Portfolio" />
 </a>
-<a href="https://github.com/mesferatus">
-  <img src="https://img.shields.io/badge/github-25003A?style=for-the-badge&logo=github&logoColor=EAD7FF" alt="GitHub" />
-</a>
 <a href="https://www.linkedin.com/in/callisto-m-30a9a0301/">
   <img src="https://img.shields.io/badge/linkedin-3B0066?style=for-the-badge&logo=linkedin&logoColor=EAD7FF" alt="LinkedIn" />
 </a>
