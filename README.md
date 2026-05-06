@@ -45,6 +45,8 @@ I’ve worked with **python automation, data analysis, and dashboard development
 
 ## 🔐 Security & Networking
 
+<div align="center">
+
 <p align="center">
 <table>
 <tr>
@@ -88,6 +90,8 @@ I’ve worked with **python automation, data analysis, and dashboard development
 <p align="center">════════ ✧ ════════</p>
 
 ---
+
+<div align="center">
 
 ## 📊 Data & Automation
 
