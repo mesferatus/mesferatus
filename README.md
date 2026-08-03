@@ -20,7 +20,6 @@
 
 </div>
 
-<br /><br />
 
 > **Systems can be precise without losing their atmosphere.**
 
@@ -28,7 +27,6 @@ I am a **Systems Analysis and Development student** interested in building pract
 
 My experience includes process automation, data organization, dashboards, Power BI and Salesforce-related workflows. In code, I am deepening my knowledge of Java, Spring Boot, REST APIs, databases and Docker.
 
-<br /><br />
 
 <div align="center">
 
@@ -50,7 +48,6 @@ My experience includes process automation, data organization, dashboards, Power 
 | [**Biblioteca de Alexandria**](https://biblioteca-de-alexandria.vercel.app/) | An editorial web experience for exploring, organizing and presenting a digital library. | Frontend · UI · Vercel |
 | [**Postgres Replica Lab**](https://github.com/mesferatus/postgres-replica-lab) | A practical lab for studying replication, communication between instances and primary/replica behavior. | PostgreSQL · Docker · replication |
 
-<br /><br />
 
 <div align="center">
 
@@ -61,11 +58,9 @@ My experience includes process automation, data organization, dashboards, Power 
 <br />
 
 <img src="https://skillicons.dev/icons?i=java,spring,gradle,python,javascript,nodejs,postgres,mysql,docker&theme=dark" alt="Java, Spring, Gradle, Python, JavaScript, Node.js, PostgreSQL, MySQL and Docker" />
-
 <br /><br />
 
 <img src="https://skillicons.dev/icons?i=linux,kali,git,github,bootstrap,postman,vscode&theme=dark" alt="Linux, Kali Linux, Git, GitHub, Bootstrap, Postman and VS Code" />
-
 <br /><br />
 
 | Path | Current practice |
@@ -76,7 +71,6 @@ My experience includes process automation, data organization, dashboards, Power 
 | **Security** | Linux, Kali Linux, networking and Blue Team fundamentals |
 | **Delivery** | Git, GitHub, Docker, Postman, documentation and Vercel |
 
-<br />
 
 <p>⟡ ───── ✦ ───── ☾ ───── ✦ ───── ⟡</p>
 
@@ -85,25 +79,7 @@ My experience includes process automation, data organization, dashboards, Power 
 <br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mesferatus&bg_color=262238&color=C9E0EB&line=8350C4&point=C9E0EB&area=true&hide_border=true" width="900" alt="GitHub activity graph" />
-
 <br /><br />
-
-<aside>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mesferatus&show_icons=true&theme=midnight-purple&hide_border=true"
-    height="165"
-    alt="GitHub statistics"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesferatus&layout=compact&theme=midnight-purple&hide_border=true"
-    height="165"
-    alt="Most used languages"
-  />
-</aside>
-
-<br /><br />
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:262238,35:402B59,70:8350C4,100:C9E0EB&section=footer&animation=fadeIn" alt="Gothic violet footer" />
 
