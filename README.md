@@ -60,7 +60,7 @@ My experience includes process automation, data organization, dashboards, Power 
 <img src="https://skillicons.dev/icons?i=java,spring,gradle,python,javascript,nodejs,postgres,mysql,docker&theme=dark" alt="Java, Spring, Gradle, Python, JavaScript, Node.js, PostgreSQL, MySQL and Docker" />
 <br /><br />
 
-<img src="https://skillicons.dev/icons?i=linux,kali,git,github,bootstrap,postman,vscode&theme=dark" alt="Linux, Kali Linux, Git, GitHub, Bootstrap, Postman and VS Code" />
+<img src="https://skillicons.dev/icons?i=linux,kali,git,postman&theme=dark" alt="Linux, Kali Linux, Git and Postman" />
 <br /><br />
 
 | Path | Current practice |
