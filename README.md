@@ -77,13 +77,13 @@ My experience includes process automation, data organization, dashboards, Power 
 ## ✦ GitHub activity ✦
 
 <br />
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=mesferatus&bg_color=0B0712&color=C9E0EB&line=7392B5&point=C9E0EB&area_color=402B59&area=true&hide_border=true"
-  width="900"
-  alt="GitHub activity graph"
-/>
-<br /><br />
+<p align="center">
+  <img
+    src="https://mesferatus-activity-graph.vercel.app/graph?username=mesferatus&bg_color=0B0712&color=C9E0EB&line=7392B5&point=C9E0EB&area_color=402B59&area=true&hide_border=true"
+    width="900"
+    alt="GitHub activity graph"
+  />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:262238,35:402B59,70:8350C4,100:C9E0EB&section=footer&animation=fadeIn" alt="Gothic violet footer" />
 
