@@ -23,10 +23,11 @@
 
 > **Systems can be precise without losing their atmosphere.**
 
-I am a **Systems Analysis and Development student** interested in building practical solutions at the intersection of **backend development, data, automation and cybersecurity**. I enjoy turning confusing processes into clearer, documented and maintainable workflows.
+I am a Systems Analysis and Development student focused on backend development, data, automation and cybersecurity.
 
-My experience includes process automation, data organization, dashboards, Power BI and Salesforce-related workflows. In code, I am deepening my knowledge of Java, Spring Boot, REST APIs, databases and Docker.
+My current practice includes Java, Spring Boot, REST APIs, PostgreSQL, Docker and Python-based automation. Academic and personal projects have also provided experience with data structures, databases, computer networks, system organization and information security.
 
+The main focus is turning complex requirements into clear, maintainable and reliable solutions, while continuously developing stronger skills in software architecture, data analysis and defensive security practices.
 
 <div align="center">
 
